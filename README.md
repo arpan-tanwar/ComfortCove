@@ -1,2 +1,0 @@
-# ComfortCove
-Airbnb Clone
