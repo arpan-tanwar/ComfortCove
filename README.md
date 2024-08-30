@@ -64,7 +64,7 @@ The app will be available at http://localhost:8080 by default.
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or feedback, please contact [arpantanwar.at@gmail.com].
