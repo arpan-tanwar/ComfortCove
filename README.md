@@ -19,7 +19,7 @@ https://comfortcove-33pi.onrender.com/listings
 - **Cloudinary**: Media management and image hosting.
 - **Mapbox**: Map service for displaying locations.
 - **HTML/CSS/JavaScript**: Front-end technologies for the user interface.
-- **Passport**: User Authentication for login/signup.
+- **Passport.js**: User Authentication for login/signup.
 
 ## Installation
 To run this project locally, follow these steps:
